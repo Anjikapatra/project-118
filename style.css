@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+#score{
+    color: whitesmoke;
+    font-size: 23;
+}
+#timer{
+    color: whitesmoke;
+    font-size: 23;
+}
+#sketch_to_be_drawn{
+    color:tomato;
+    font-style: inherit;
+    font-size: 30;
+    font-weight: bold;
+
+}
+#your_sketch{
+    font-size: 25;
+    color: white;
+}
+#confidence{
+    font-size: 25;
+    color: white;
+}
+#quick_draw{
+    color: white;
+}
